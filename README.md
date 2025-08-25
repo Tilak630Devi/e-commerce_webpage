@@ -1,5 +1,3 @@
-![E-commerce Platform](frontend/public/placeholder-logo.svg)
-
 A modern e-commerce platform for beauty and cosmetics products built with Next.js and Express.js.
 
 ## 📋 Table of Contents
